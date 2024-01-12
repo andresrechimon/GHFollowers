@@ -3,6 +3,7 @@ You can watch the full course for free on: https://www.youtube.com/watch?v=Jzngn
 
 Some of the topics implemented:
 - Xcode Project Setup - Delete Storyboard
+- Dark an light mode
 - App Navigation Setup - TabBar & NavBar
 - Custom UIButton & UITextField
 - Search Screen UI
