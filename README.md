@@ -31,6 +31,8 @@ Some of the topics implemented:
 - UITableView
 
 Screenshots:
+
+
 ![1](https://github.com/andresrechimon/GHFollowers/assets/70274608/36bccb6b-11b6-439d-a41b-00bad9ffc790)
 ![2](https://github.com/andresrechimon/GHFollowers/assets/70274608/ae8aceca-d615-4756-8a50-a46195218c80)
 ![3](https://github.com/andresrechimon/GHFollowers/assets/70274608/60030253-8229-4006-8cdb-234d128c7a3b)
